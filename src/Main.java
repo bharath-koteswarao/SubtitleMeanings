@@ -17,8 +17,6 @@ import java.net.URL;
  * Created by koteswarao on 17-04-2017.
  */
 class UI extends JFrame implements ActionListener {
-    final String app_id = "5736a606";
-    final String app_key = "08847442e1f2f68722ed448bd9ce24be";
     Container container;
     JTextField tf1;
     JLabel jl1;
